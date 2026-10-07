@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Kickstand icon: the stand, hinged at the pivot (224.16, 385.44), 17 degrees off vertical, foot on the ground at y 755.04. -->
+  <g transform="translate(224.16 385.44) rotate(-17)">
+    <rect x="-33.6" y="-33.6" width="67.2" height="418.54" rx="33.6" fill="#FF5B14"/>
+  </g>
+  <rect x="279.82" y="725.92" width="94.08" height="29.12" rx="14.56" fill="#FF5B14"/>
+</svg>

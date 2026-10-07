@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Kickstand icon: rear wheel. Centre (564.64, 497.44), outer r 257.6, inner r 190.4, resting on the ground at y 755.04. -->
+  <path fill="#F4F2EE" fill-rule="evenodd" d="M822.24 497.44a257.6 257.6 0 1 1-515.2 0a257.6 257.6 0 1 1 515.2 0ZM755.04 497.44a190.4 190.4 0 1 0-380.8 0a190.4 190.4 0 1 0 380.8 0Z"/>
+  <circle cx="564.64" cy="497.44" r="44.8" fill="#F4F2EE"/>
+</svg>
